@@ -1,14 +1,14 @@
 '''
-NAME
+NAME: 
        
 
-VERSION
+VERSION:
         
 
-AUTHOR
+AUTHOR: JORDI GARCIA GARCES
         
 
-DESCRIPTION
+DESCRIPTION: 
         
 
 CATEGORY
@@ -69,5 +69,6 @@ SEE ALSO
 
 
 # step 3.
+
 
 
