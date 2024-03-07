@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 a
 =======
 # Nombre del Proyecto
+=======
+# Nombre del Proyecto uwu
+>>>>>>> 21205aa70a579b8f03a9f7b833af60343e554df9
 
 Este es un script de Python diseñado para...
 
