@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-a
-=======
 # Nombre del Proyecto
-=======
-# Nombre del Proyecto uwu
->>>>>>> 21205aa70a579b8f03a9f7b833af60343e554df9
 
 Este es un script de Python diseñado para...
 
@@ -54,4 +47,3 @@ Si utiliza este script en su trabajo, por favor cite: [información de citación
 
 Si tiene problemas o preguntas, por favor abra un problema en este repositorio o póngase en contacto con nosotros en: [información de contacto].
 
->>>>>>> 3e2554f32158753c629989cac432d4455994d52e
