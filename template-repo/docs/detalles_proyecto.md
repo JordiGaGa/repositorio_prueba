@@ -6,11 +6,11 @@ Fecha: --/--/----
 
 - Jordi Garcia Garces <email:jordigg@lcg.unam.mx>
 
-## Descripción del Problema
+## Descripcion del Problema
 
 
 
-## Especificación de Requisitos
+## Especificacion de Requisitos
 
 Requisitos funcionales
 
@@ -22,12 +22,12 @@ Requisitos no funcionales
 
 
 
-## Análisis y Diseño
+## Analisis y Esquema
 
 
 
 "Como se resolvio el problema y que se uso"
-A continuación, se muestra un pseudocódigo simple para ilustrar la lógica básica del script:
+A continuacion, se muestra un pseudocodigo simple para ilustrar la logica básica del script:
 
 ```
 
