@@ -1,4 +1,4 @@
-# "Titulo"
+# "Título"
 
 Fecha: --/--/----
 
@@ -6,11 +6,11 @@ Fecha: --/--/----
 
 - Jordi Garcia Garces <email:jordigg@lcg.unam.mx>
 
-## Descripción del Problema
+## Descripción del problema
 
 
 
-## Especificación de Requisitos
+## Especificación de requisitos
 
 Requisitos funcionales
 
@@ -22,12 +22,12 @@ Requisitos no funcionales
 
 
 
-## Análisis y Diseño
+## Análisis y diseño
 
 
 
-"Como se resolvio el problema y que se uso"
-A continuación, se muestra un pseudocódigo simple para ilustrar la lógica básica del script:
+"Resolución y uso del problema"
+
 
 ```
 
@@ -46,7 +46,7 @@ A continuación, se muestra un pseudocódigo simple para ilustrar la lógica bá
 ```
 
 - **Actor**: Usuario
-- **Descripción**: "Se describe la accion desde que el usuario inserta los datos hasta el como se le dan"
+- **Descripción**: Se describe la accion desde que el usuario inserta los datos hasta el como se le dan
 - **Flujo principal**:
 
 	1. El actor inicia el sistema proporcionando el archivo de entrada...
